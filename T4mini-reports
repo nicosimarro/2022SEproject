@@ -22,3 +22,20 @@ receiving from team 3 and what team 5 expects from us.
 
 What is the overall status?
 GREEN.
+
+
+2022/09/30
+
+What was done this week?
+This week we made some improvements in our requirements specification document. We remade it according to the LaTex template,
+fixed some flaws and improved the implementation plan. Together with other groups we agreed on using Java.
+
+What issues/risks/blockers do you have?
+We had issues working with latex, we couldn't get it to work at all, which means we remade the document with the pdf file of
+the template. We are also unsure how to divide the work of area 3 between the groups.
+
+What is the goal for next week?
+Our main goals will be improving the implementation plan and finishing the requirements specification document.
+
+What is the overall status?
+GREEN.
