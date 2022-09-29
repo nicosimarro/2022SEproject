@@ -23,3 +23,28 @@ know what we will need to create.
 appearance it should be delivered to TEAM3;
 
   4)Status: GREEN
+
+2022/09/30
+
+  1) What was done?
+*We finished the content of our Requirement Specifications. Fixed issues we had last week and added more
+content. Started writing it in Latex. 
+*We talked with other teams and created a mutual agreement of working with Java, so it is easier to merge
+code and parse results between teams.
+*We decided that we will create an API to implement our task.
+*We talked to TEAM1 and asked them to give us a JSON file as their result.
+*We had a particular success in distributing our jobs during the creation of Requirement Specification - 
+everyone successfully finished their responsibility and we managed to finish everything a week before deadline
+(maybe not complete Latex part)
+  
+  2) What issues/blockers did we face?
+*Deciding what we want to build.
+*Communicating with everyone and mutually agreeing that we are all working with Java.
+*Converting our Specification into Latex :) Was the hardest problem so far
+  
+  3) Goal for next week:
+*Finish (if not yet) converting Specification document into Latex
+*Deciding what exactly we need in a JSON file from TEAM1
+*Generate ideas on how we will split TEAM3 work
+
+  4) Status: GREEN
