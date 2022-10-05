@@ -48,3 +48,19 @@ everyone successfully finished their responsibility and we managed to finish eve
 *Generate ideas on how we will split TEAM3 work
 
   4) Status: GREEN
+  
+  2022/10/07
+  1) What was done?
+*Polished our requirement specification
+*Found a mathematical solution to our task (future logic of the program)
+*Exchanged information with team 1 and received a demo JSON from them
+  
+  2) What issues/blockers did we face?
+*Again, working with latex and converting everything according to standards
+*Going through mathematics of 3d space and vectors to find how we will solve our task
+
+  3) Goal for next week:
+*Start coding (at least basic main method and maybe draft of other classes)
+*Get more into the contents of JSON, how and which info we will use
+
+  4) Status: GREEN
