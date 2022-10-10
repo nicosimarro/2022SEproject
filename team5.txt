@@ -1,0 +1,20 @@
+ What was done this week?
+
+- We met two times this week;
+- Edited our  Requirements specification and wrote it in Latex
+- Discussed our plans for the next week
+- Communicated with other teams
+
+What issues/risks/blockers do you have?
+
+- Had some difficulties with latex
+
+What is the goal for next week?
+
+- We will start working on Technical specification
+- We will try to get prototypes of other team's results
+- Start working on the development
+
+What is the overall status?  
+
+- For our team Green
