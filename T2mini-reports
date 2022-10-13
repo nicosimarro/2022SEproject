@@ -64,3 +64,20 @@ everyone successfully finished their responsibility and we managed to finish eve
 *Get more into the contents of JSON, how and which info we will use
 
   4) Status: GREEN
+  
+  2022/10/14
+  1) What was done?
+*Analyzed the JSON that team1 provided
+*Exchanged ideas on how to start coding - the first step will be to find the ridges from the file and system.out its points.
+*Created an empty main class and some empty classes for implementing backend part.
+*Setup new github branches and jiro
+
+  2) What issues/blockers did we face?
+*Analyzing the JSON and understanding from where we need to begin.
+*Starting to know how to practically use github and jiro
+
+  3) Goal for next week:
+*Create a code to find a ridge from the JSON
+*Try to get used to using git and jiro, as well as try TDD method while coding
+
+  4) Status: GREEN
