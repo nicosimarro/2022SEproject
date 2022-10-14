@@ -1,0 +1,66 @@
+TEAM 1 Mini-Reports
+------------------------------------------------------
+  
+  1) What was done?
+We had a team meeting on Wednesday discussing the content of the Requirement Specification. 
+We made notes what should we write about and what is the purpose of it. After that each of us
+wrote a particular part of the Requirements Specification and team leader will have the draft published
+by Thursday night. We started discussing what kind of software will we use and how we will get the
+result, however we didn't really think of anything specific.
+  
+  2)What issues/blockers did we face?
+We postponed the meeting that we eventually had on Wednesday for 2 times - some students were unable to
+come to university on Monday or Tuesday and we didn't really want to have a meeting online. We also
+realised that we don't know who will be in TEAM3 so it's not clear to whom we need to talk in order to
+know what we will need to create.
+  
+  3)Goal for next week:
+*Finish the Requirements Specification;
+*Create an understanding of which tools will we use;
+*Distribute our roles in creating software;
+*Ideally it would be great to undestand what kind of information we will receive from TEAM1 and in what
+appearance it should be delivered to TEAM3;
+
+  4)Status: GREEN
+  
+  1) What was done?
+*We finished the content of our Requirement Specifications. Fixed issues we had last week and added more
+content. Started writing it in Latex. 
+*We talked with other teams and created a mutual agreement of working with Java, so it is easier to merge
+code and parse results between teams.
+*We decided that we will create an API to implement our task.
+*Give an example of a json file as our result to the other team leaders.
+*We had a particular success in distributing our jobs during the creation of Requirement Specification - 
+everyone successfully finished their responsibility and we managed to finish everything a week before deadline
+(maybe not complete Latex part)
+  
+  2) What issues/blockers did we face?
+*Deciding what we want to build.
+*Communicating with everyone and mutually agreeing that we are all working with Java.
+*Converting our Specification into Latex :) Was the hardest problem so far
+  
+  3) Goal for next week:
+*Finish (if not yet) converting Specification document into Latex
+*Deciding what exactly we need in a JSON file from TEAM1
+*Generate ideas on how we will split TEAM3 work
+
+  4) Status: GREEN
+  
+  2022/10/07
+  1) What was done?
+*Polished our requirement specification
+*Found a mathematical solution to our task (future logic of the program)
+*Exchanged information with the rest of the team leaders and give them, like a json
+purpose
+  
+  2) What issues/blockers did we face?
+*Again, working with latex and converting everything according to standards
+*Going through mathematics of 3d space and vectors to find how we will solve our task
+
+  3) Goal for next week:
+*Start coding (at least basic main method and maybe draft of other classes)
+*Get more into the contents of JSON, how and which info we will use
+
+4) Status: GREEN
+
+  4) Status: GREEN
