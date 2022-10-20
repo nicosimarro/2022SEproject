@@ -63,4 +63,26 @@ purpose
 
 4) Status: GREEN
 
-  4) Status: GREEN
+
+
+
+
+
+week 21/10/2022
+
+What was done?
+*Talk to the other team leaders about what we had done this week
+ *Use area 1 half done to program everything in java and in json, with a DTO.
+*We held a meeting on Tuesday 10/18 with the rest of teamleaders. I tried to teach them what a DTO was but in the end we agreed to do it in a json, implementing it in a 3D model, for the ease of the other leaders of the teams.
+*We began to divide the tasks for each team 1 member.
+*We discussed about what program we shall use to create the diagrams for the next deliverable.
+*We did the UML class Diagram, and some sequence diagrams
+
+What issues/blockers did we face?
+*discuss with the other leaders whether to do it in a DTO, or in a json, implementing it in a 3D model, 
+ for the ease of the other leaders we have decided to do it in json
+*with my team we were also debating in which technology to work the diagrams, 
+ if in visual paradigm or in starUML, personally we chose starUML, because it is 
+ much easier to navigate and does not require any license activation
+ 
+ STATUS: GREEN
